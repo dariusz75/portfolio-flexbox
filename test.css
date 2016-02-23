@@ -85,26 +85,32 @@ nav ul li:hover {
 }
 
 /* --######### ABOUT SECTION #####################################################-- */
-.about-me-picture{
+.about-me-picture-wrapper{
   display: -webkit-flex;
   display: flex;
   -webkit-flex-direction: row; /* Safari */
   flex-direction: row;
+  margin-top: 50px;
 }
 
 .empty-box{
   background-color: red;
-  -webkit-flex: 2;
-  -ms-flex: 2;
-  flex: 2;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
 }
 
 .picture-box{
-  height: 450px;
+  
   background-color: green;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
+
+}
+
+.picture-box img{
+  width: 100%;
 }
 
 .about-me-text{
