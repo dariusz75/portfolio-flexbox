@@ -1,2 +1,2 @@
-# portfolio-flexbox
-Portfolio in Flexbox
+# portfolio
+This is my portfolio repository

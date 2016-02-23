@@ -1,0 +1,88 @@
+body{
+	padding: 0;
+	margin: 0;
+	color: #4D4E50;
+}
+*{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+}
+
+ a{
+ 	text-decoration: none;
+ 	color: #4D4E50;
+ }
+
+/* --######### HEADER #####################################################-- */
+header{
+	display: flex;
+   	flex-direction: row;
+   	position: fixed;
+	height: 60px;
+	background-color: #F3EAEF;
+	z-index: 9998;
+}
+
+nav{
+	position: absolute;
+	right: 30px;
+	top: 5px;
+	flex: 1;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-right: 30px;
+	font-size: 20px;
+	letter-spacing: 0.1em;
+	-moz-transition: all .5s ease-in;
+    -o-transition: all .5s ease-in;
+    -webkit-transition: all .8s ease-in;
+    transition: all .5s ease-in;
+}
+
+nav ul li:hover {
+  color: white;
+  cursor: pointer;
+  color: #ADB2B8;
+  
+}
+
+
+/* --######### TOP PICTURE SECTION #####################################################-- */
+
+
+
+
+
+/* --######### ABOUT SECTION #####################################################-- */
+
+
+
+
+
+/* --######### SKILLS SECTION #####################################################-- */
+
+
+
+
+
+/* --######### EXPERIENCE SECTION #####################################################-- */
+
+
+
+
+
+/* --######### PORTFOLIO SECTION #####################################################-- */
+
+
+
+
+
+/* --######### CONTACT SECTION #####################################################-- */
+
+
+
+
+
+/* --######### FOOTER #####################################################-- */
